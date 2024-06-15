@@ -4,7 +4,8 @@ The ChatGPT clone uses chat completion v1 API with your gpt model and express.js
 
 ## Screenshots
 
-![image](https://github.com/Kushagrekaushik/ChatGPT_Clone/assets/100528019/4a04cf97-910d-4f44-adcf-58a97c90eb16)
+![image](https://github.com/Kushagrekaushik/ChatGPT_Clone/assets/100528019/2bcc8081-194e-4934-addc-57341d22f675)
+
 
 
 ## Installation
