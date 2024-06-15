@@ -4,7 +4,8 @@ The ChatGPT clone uses chat completion v1 API with your gpt model and express.js
 
 ## Screenshots
 
-<img width="1430" alt="react-chatgpt-clone" src="https://github.com/uigywnkiub/react-chatgpt-clone/assets/29861553/c3f8b227-5567-4f29-95ff-43ea82069c08">
+![image](https://github.com/Kushagrekaushik/ChatGPT_Clone/assets/100528019/4a04cf97-910d-4f44-adcf-58a97c90eb16)
+
 
 ## Installation
 
@@ -28,6 +29,4 @@ Start frontend server with vite.
   npm run dev:front
 ```
 
-## License
 
-[MIT License](LICENSE)
