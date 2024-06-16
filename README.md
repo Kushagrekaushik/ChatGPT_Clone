@@ -15,8 +15,7 @@ The ChatGPT Clone project is a web application that mimics OpenAI's ChatGPT mode
 - **Node.js:** Backend environment for handling server logic and API requests.
 - **Express.js:** Web application framework for Node.js, facilitating API development.
 - **ChatGPT API:** Integration for retrieving AI-generated responses.
-- **Bootstrap or Material-UI:** Optional for styling and UI components.
-- **Deployment:** Deploy using platforms like Heroku, AWS, or Netlify for frontend and backend deployment.
+
 
 
 ## Screenshots
